@@ -1,6 +1,6 @@
 let first = 3;
 let second = 5;
-let third = 10;
+let third = 9;
 
 console.log("first =", first, ", second =", second);
 // console.log(second);
